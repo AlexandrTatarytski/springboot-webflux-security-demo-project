@@ -4,7 +4,7 @@ plugins {
 	id 'io.spring.dependency-management' version "$springDependencyManagementVersion"
 }
 
-group = 'net.proselyte'
+group = 'net.at'
 version = '1.0.0'
 sourceCompatibility = '17'
 
